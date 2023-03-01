@@ -4,7 +4,7 @@ export default function Info() {
     return (
         <div className="info">
             <img src="../Assets/profile.png" alt="Profile Picture" />
-            <h2>Laura Smith</h2>
+            <h2>Michello</h2>
             <p>Frontend Developer</p>
             <span>laurasmith.website</span> <br />
             <button id="btn-email">
